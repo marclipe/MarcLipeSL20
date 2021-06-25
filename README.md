@@ -1,9 +1,6 @@
 # Olá, Hi there, Hola!  🎯
 
 
-![](https://user-images.githubusercontent.com/86076983/123472402-80274000-d5cd-11eb-84ac-4b3629a32cd2.png)
-
-
 ## Seja muito bem-vindo, Wecolme, Bienvenido.  
 
 
@@ -29,3 +26,5 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@marcos_sl20-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcos_sl20)](https://twitter.com/marcos_sl20)
+
+![](https://user-images.githubusercontent.com/86076983/123472402-80274000-d5cd-11eb-84ac-4b3629a32cd2.png)
