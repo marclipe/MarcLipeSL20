@@ -1,7 +1,7 @@
 # Olá, Hi there, Hola!  🎯
 
 
-![19-computer-programming_developer-macbook-stickerbomb-256](https://user-images.githubusercontent.com/67933145/111560014-61b0dd80-8770-11eb-8434-5d110d395469.png)
+![](https://user-images.githubusercontent.com/86076983/123472402-80274000-d5cd-11eb-84ac-4b3629a32cd2.png)
 
 
 ## Seja muito bem-vindo, Wecolme, Bienvenido.  
