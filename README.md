@@ -1,7 +1,7 @@
 # Olá, Hi there, Hola!  🎯
 
 
-## Seja muito bem-vindo, Wecolme, Bienvenido.  
+## Seja muito bem-vindo(a), Wecolme, Bienvenido.  
 
 
 ✅ **Algumas coisas sobre mim:** 
