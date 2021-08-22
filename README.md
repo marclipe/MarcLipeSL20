@@ -8,7 +8,7 @@
 
 - 📚  Linguagem C; 
 - 📚  Linguagem C++;   
-- 📖 HTML5 e CSS3 (ESTUDANDO...);  
+- 📖 HTML5 e CSS3 (ESTUDANDO...).  
 
 *** 
 
