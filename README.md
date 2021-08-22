@@ -4,13 +4,11 @@
 ## Seja muito bem-vindo(a), Wecolme, Bienvenido(a).  
 
 
-✅ **Algumas coisas sobre mim:** 
+✅ ** Habilidades: ** 
 
-- 📚  Atualmente aluno da Fatec Zona Sul; 
-- 🇧🇷  Brasileiro, piauense;
-- **20** anos;  
-- 📖 Sempre buscando novas oportunidades; 
-- 😊 Aceito feedbacks.  
+- 📚  Linguagem C; 
+- 📚  Linguagem C++;   
+- 📖 HTML5 e CSS3 (ESTUDANDO...);  
 
 *** 
 
