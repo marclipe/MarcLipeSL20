@@ -12,9 +12,7 @@
         <li>📖 JavaScript (aprendendo...)</li>
     </ul>
 
-
     <p>❤️"O que você alcança hoje é uma pequena parte do que você ainda pode conquistar com seu talento"</p> 
-
 
  <h3>Redes: 📱</h3> 
 
