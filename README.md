@@ -1,22 +1,22 @@
-# Olá, Hi there, Hola!  🎯
+<h1>Olá, Hi there, Hola! 🎯</h1> 
 
 
-## Seja muito bem-vindo(a), Wecolme, Bienvenido(a).  
+<h2>Seja muito bem-vindo(a), Wecolme, Bienvenido(a). </h2> 
 
 
-✅ ** Habilidades: ** 
+  <p>✅<strong>Habilidades:</strong></p> 
 
-- 📚  Linguagem C; 
-- 📚  Linguagem C++;   
-- 📖 HTML5 e CSS3 (ESTUDANDO...).  
+<ul>
+    <li>📚 Linguagem C/C++</li>
+    <li>📖 HTML e CSS (aprendendo...)</li>
+    <li>📖 JavaScript (aprendendo...)</li>
+</ul>
 
-*** 
 
-❤️ **"O que você alcança hoje é uma pequena parte do que você ainda pode conquistar com seu talento"** 
+❤️ <p>"O que você alcança hoje é uma pequena parte do que você ainda pode conquistar com seu talento"</p> 
 
-*** 
 
-## **Redes:**  📱
+ <h3>Redes:</h3> 📱
 
 <div>
   <a href="https://www.linkedin.com/in/marcosfelipesl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
