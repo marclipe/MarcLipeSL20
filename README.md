@@ -8,7 +8,7 @@
 
 <ul>
     <li>📚 Linguagem C/C++</li>
-    <li>📖 HTML e CSS (aprendendo...)</li>
+    <li>📖 HTML e CSS </li>
     <li>📖 JavaScript (aprendendo...)</li>
 </ul>
 
